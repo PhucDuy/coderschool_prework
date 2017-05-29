@@ -9,9 +9,9 @@ Blog App is a Ruby on Rails blog application.
 
 Submitted by: Tran Duy Phuc
 
-Time spent: **X** hours spent in total
+Time spent: 10 hours spent in total
 
-URL: **Insert your Heroku URL here**
+URL: https://still-harbor-41194.herokuapp.com/
 
 ## User Stories
 
