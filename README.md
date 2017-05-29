@@ -22,7 +22,7 @@ The following is a list of **required** features of the application you'll build
 * [x] Users can create, edit, and delete Articles from the database using their Rails application.
 * [x] User can create a new Article, formatted using the Markdown language.
 * [x] User can see how long ago the Article was created.
-* [ ] There is one Article that introduces the App Creator with name & picture.
+* [x] There is one Article that introduces the App Creator with name & picture.
 * [x] User see a search form on the Articles page.
 * [x] When the User attempts to delete an Article there is an alert modal which asks the User to confirm deletion of that specific Article.
 * [x] User can submit a search term to find Articles with titles or body containing search terms.
@@ -57,7 +57,7 @@ Here's a walkthrough of implemented user stories:
 > `![Video Walkthrough](walkthrough.gif)`
 >
 
-![Video Walkthrough](/path/to/your/gif/file)
+![Video Walkthrough](/walkthrough/prework.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
